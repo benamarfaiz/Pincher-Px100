@@ -1,7 +1,7 @@
 # Guide : Pincher Px100
 Le robot se connecte par USB et peut être contrôlé sur ROS1 ou ROS2 (ici on utilisera ROS2), cependant, il n'est pas nécessaire de posséder des connaissances sur ROS2 pour suivre ce TP. Sur Linux tout devrait fonctionner directement sans passer par une machine virtuelle. Sur Mac ou Windows, il faudra utiliser une machine virtuelle pour simuler Linux sur votre ordinateur. 
 
-Remarque, Docker semble être une meilleure solution qu'une VM car plus simple à partager et à s'approprier, mais Docker ne donne pas les accès directs aux ports USB, donc pas possible de connecter le robot via Docker facilement.
+Remarque, Docker semble être une meilleure solution qu'une VM car plus simple à partager et à s'approprier, mais Docker ne donne pas les accès directs aux ports USB, donc pas possible de connecter le robot via Docker facilement. 
 
 ## Installation et Configuration de la machine virtuelle 
 ### Téléchargement de VirtualBox
